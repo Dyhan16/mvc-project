@@ -1,1 +1,1 @@
-# MBC-barrios-hermida
+# MVC Project - Barrios, Hermida
