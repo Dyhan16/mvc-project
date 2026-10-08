@@ -1,0 +1,18 @@
+﻿@model MVC_Project.Models.ProfileViewModel
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<div class="profile-card">
+    <div class="avatar">@Model.FullName.Substring(0, 1)</div>
+    <h1>@Model.FullName</h1>
+    <p class="subtitle">@Model.Course</p>
+    <p class="subtitle">@Model.School</p>
+
+    <hr />
+
+    <h4>About Me</h4>
+    <p>@Model.Bio</p>
+
+    </div>
+</div>
