@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PUP\\AppDev\\mvc-project\\mvc-project\\MVC Project\\MVC Project.csproj",
+      "projectUniqueName": "D:\\PUP\\AppDev\\mvc-project\\MVC Project\\MVC Project.csproj",
       "projectName": "MVC Project",
-      "projectPath": "D:\\PUP\\AppDev\\mvc-project\\mvc-project\\MVC Project\\MVC Project.csproj",
+      "projectPath": "D:\\PUP\\AppDev\\mvc-project\\MVC Project\\MVC Project.csproj",
       "packagesPath": "C:\\Users\\dyhan\\.nuget\\packages\\",
-      "outputPath": "D:\\PUP\\AppDev\\mvc-project\\mvc-project\\MVC Project\\obj\\",
+      "outputPath": "D:\\PUP\\AppDev\\mvc-project\\MVC Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dyhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
