@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q/C1ttBnfNbGn5rXaOn55167U7vME4M2WWKxpxOKHrQ=",
+  "Hash": "rkGfBLDoTuRnhkEKtBUXm/YWXyGF7aL13ViQfZwwhNo=",
   "Source": "MVC Project",
   "BasePath": "_content/MVC Project",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\PUP\\AppDev\\mvc-project\\MVC Project\\wwwroot\\images\\profile-hans.png",
+      "SourceId": "MVC Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PUP\\AppDev\\mvc-project\\MVC Project\\wwwroot\\",
+      "BasePath": "_content/MVC Project",
+      "RelativePath": "images/profile-hans.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\profile-hans.png"
     },
     {
       "Identity": "D:\\PUP\\AppDev\\mvc-project\\MVC Project\\wwwroot\\js\\site.js",
