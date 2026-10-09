@@ -6,7 +6,9 @@
 <div class="profile-card">
     @if (!string.IsNullOrEmpty(Model.ImagePath))
     {
-        <img src="@Model.ImagePath" alt="Profile picture of @Model.FullName" class="avatar-img" />
+        <div class="pfp-wrap">
+            <img src="@Model.ImagePath" alt="Profile picture of @Model.FullName" class="avatar-img" />
+        </div>
     }
     else
     {
@@ -20,6 +22,12 @@
 
     <h4>About Me</h4>
     <p class="bio">@Model.Bio</p>
-
+    
+    <h4>Skills</h4>
+    <div class="skill-list">
+        @foreach (var skill in Model.Skills)
+        {
+            <span class="skill-badge">@skill</span>
+        }
     </div>
 </div>

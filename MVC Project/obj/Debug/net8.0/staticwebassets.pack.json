@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\PUP\\AppDev\\mvc-project\\MVC Project\\wwwroot\\images\\hachi.png",
+      "PackagePath": "staticwebassets\\images\\hachi.png"
+    },
+    {
+      "Id": "D:\\PUP\\AppDev\\mvc-project\\MVC Project\\wwwroot\\images\\portfolio\\iskhed.png",
+      "PackagePath": "staticwebassets\\images\\portfolio\\iskhed.png"
+    },
+    {
+      "Id": "D:\\PUP\\AppDev\\mvc-project\\MVC Project\\wwwroot\\images\\portfolio\\mvc.png",
+      "PackagePath": "staticwebassets\\images\\portfolio\\mvc.png"
+    },
+    {
       "Id": "D:\\PUP\\AppDev\\mvc-project\\MVC Project\\wwwroot\\images\\profile-hans.png",
       "PackagePath": "staticwebassets\\images\\profile-hans.png"
     },

@@ -13,7 +13,8 @@ public class ProfileController : Controller
             Course = "Bachelor of Science in Computer Science",
             School = "Polytechnic University of the Philippines",
             Bio = "✨hello.✨\n" + "Age: 20\n" + "Height: 5\'2\"\n" + "Hobbies: Gaming, Game Dev, Digital Art, Playing Instruments, Music Composition",
-            ImagePath = "/images/profile-hans.png"
+            ImagePath = "/images/profile-hans.png",
+            Skills    = new List<string> { "C", "C#", "Python", "Java", "CSS" }
         };
         return View(model);
     }
