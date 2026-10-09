@@ -12,7 +12,7 @@ public class ProfileController : Controller
             FullName = "Hans Matthew Hermida",
             Course = "Bachelor of Science in Computer Science",
             School = "Polytechnic University of the Philippines",
-            Bio = "hello.",
+            Bio = "✨hello.✨\n" + "Age: 20\n" + "Height: 5\'2\"\n" + "Hobbies: Gaming, Game Dev, Digital Art, Playing Instruments, Music Composition",
             ImagePath = "/images/profile-hans.png"
         };
         return View(model);
